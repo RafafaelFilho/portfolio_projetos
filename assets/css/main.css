@@ -2817,8 +2817,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #8b1c1c;
-			color: #c8ece9;
+			background-color: #056B9E;
+			color: #ffffff;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2850,7 +2850,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
@@ -2981,7 +2981,7 @@ input, select, textarea {
 
 		.wrapper.style3 {
 			background-color: #505393;
-			color: #d3d4e4;
+			color: #ffffff;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
